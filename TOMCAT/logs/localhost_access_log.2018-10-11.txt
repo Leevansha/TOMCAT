@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:33 +0530] "GET /ODTL/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:34 +0530] "GET /ODTL/login HTTP/1.1" 200 3097
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:39 +0530] "POST /ODTL/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:39 +0530] "GET /ODTL/ HTTP/1.1" 200 178
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:39 +0530] "GET /ODTL/home HTTP/1.1" 200 11040
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:43 +0530] "GET /ODTL/approveOilReports HTTP/1.1" 200 18774
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:44 +0530] "GET /ODTL/static/css/images/ui-bg_flat_75_ffffff_40x100.png HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:44 +0530] "GET /ODTL/static/css/images/ui-icons_222222_256x240.png HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:44 +0530] "POST /ODTL/getLocationsModel HTTP/1.1" 200 73074
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:45 +0530] "POST /ODTL/filterOilReport HTTP/1.1" 200 74186
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:46 +0530] "GET /ODTL/home HTTP/1.1" 200 11040
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:49 +0530] "GET /ODTL/listOilReport HTTP/1.1" 200 18757
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:49 +0530] "GET /ODTL/static/css/images/ui-bg_flat_75_ffffff_40x100.png HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:49 +0530] "GET /ODTL/static/css/images/ui-icons_222222_256x240.png HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:50 +0530] "POST /ODTL/getLocationsModel HTTP/1.1" 200 73074
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:51:50 +0530] "POST /ODTL/filterOilReport HTTP/1.1" 200 68397
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:12:52:05 +0530] "GET /ODTL/listOilSampleNew HTTP/1.1" 500 8206
